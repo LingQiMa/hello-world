@@ -1,2 +1,2 @@
 # hello-world
-just a try
+a try for readme
